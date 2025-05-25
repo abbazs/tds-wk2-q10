@@ -1,2 +1,2 @@
-# tds-wk2-q6
-Answer to TDS week2 q6 
+# tds-wk2-q10
+Answer to TDS week2 q10 
